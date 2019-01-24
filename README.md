@@ -1,2 +1,2 @@
 # bdd-wiki-notes
-https://github.com/anupmanekar/bdd-wiki-notes/wiki
+https://github.com/anupmanekar/wiki-notes/wiki
